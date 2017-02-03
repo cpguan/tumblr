@@ -1,9 +1,14 @@
 # tumblr
+
 Lab1
 
 ## Video Walkthrough 
 
-<img src='http://imgur.com/lXAWyah.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/lXAWyah.gif' />
+
+link: http://imgur.com/lXAWyah.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
