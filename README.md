@@ -1,6 +1,12 @@
-# tumblr
+# tumblr - Lab1
 
-Lab1
+using table views by building a simple Tumblr app.
+
+## User Stories
+
+The following functionality is complete:
+
+- [x] User can access the Tumblr posts for the blog Humans of New York.
 
 ## Video Walkthrough 
 
