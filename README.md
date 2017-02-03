@@ -12,9 +12,7 @@ The following functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/lXAWyah.gif' />
-
-link: http://imgur.com/lXAWyah.gif
+<img src='http://imgur.com/Zpt1Il6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
