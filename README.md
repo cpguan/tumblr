@@ -1,4 +1,4 @@
-# tumblr - Lab1
+# tumblr 
 
 using table views by building a simple Tumblr app.
 
