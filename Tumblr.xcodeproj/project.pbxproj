@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		16D4DEDF046FE6A6D77538E9 /* Pods_Tumblr.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 799CA542E41DE0C240D2AAD9 /* Pods_Tumblr.framework */; };
 		3B5EBA851E43FD8A003DD7FD /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B5EBA841E43FD8A003DD7FD /* PhotoCell.swift */; };
+		3B658F691E4D0EF900E1DBDD /* InfiniteScrollActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B658F681E4D0EF900E1DBDD /* InfiniteScrollActivityView.swift */; };
+		3B658F6B1E4D1C5600E1DBDD /* FullScreenPhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B658F6A1E4D1C5600E1DBDD /* FullScreenPhotoViewController.swift */; };
+		3B7FDDEB1E4BF74700BC8149 /* PhotoDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FDDEA1E4BF74700BC8149 /* PhotoDetailViewController.swift */; };
 		3BC562691E41867B00B076A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BC562681E41867B00B076A7 /* AppDelegate.swift */; };
 		3BC5626E1E41867B00B076A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BC5626C1E41867B00B076A7 /* Main.storyboard */; };
 		3BC562701E41867B00B076A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BC5626F1E41867B00B076A7 /* Assets.xcassets */; };
@@ -18,6 +21,9 @@
 
 /* Begin PBXFileReference section */
 		3B5EBA841E43FD8A003DD7FD /* PhotoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
+		3B658F681E4D0EF900E1DBDD /* InfiniteScrollActivityView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfiniteScrollActivityView.swift; sourceTree = "<group>"; };
+		3B658F6A1E4D1C5600E1DBDD /* FullScreenPhotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FullScreenPhotoViewController.swift; sourceTree = "<group>"; };
+		3B7FDDEA1E4BF74700BC8149 /* PhotoDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoDetailViewController.swift; sourceTree = "<group>"; };
 		3BC562651E41867B00B076A7 /* Tumblr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tumblr.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BC562681E41867B00B076A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3BC5626D1E41867B00B076A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -74,6 +80,7 @@
 				3B5EBA831E43FD6D003DD7FD /* View */,
 				3BC5627E1E418C9700B076A7 /* ViewController */,
 				3BC562681E41867B00B076A7 /* AppDelegate.swift */,
+				3B658F681E4D0EF900E1DBDD /* InfiniteScrollActivityView.swift */,
 				3BC5626C1E41867B00B076A7 /* Main.storyboard */,
 				3BC5626F1E41867B00B076A7 /* Assets.xcassets */,
 				3BC562711E41867B00B076A7 /* LaunchScreen.storyboard */,
@@ -85,6 +92,8 @@
 		3BC5627E1E418C9700B076A7 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
+				3B658F6A1E4D1C5600E1DBDD /* FullScreenPhotoViewController.swift */,
+				3B7FDDEA1E4BF74700BC8149 /* PhotoDetailViewController.swift */,
 				3BC5627C1E418C7200B076A7 /* PhotosViewController.swift */,
 			);
 			name = ViewController;
@@ -230,8 +239,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B658F691E4D0EF900E1DBDD /* InfiniteScrollActivityView.swift in Sources */,
+				3B658F6B1E4D1C5600E1DBDD /* FullScreenPhotoViewController.swift in Sources */,
 				3BC562691E41867B00B076A7 /* AppDelegate.swift in Sources */,
 				3B5EBA851E43FD8A003DD7FD /* PhotoCell.swift in Sources */,
+				3B7FDDEB1E4BF74700BC8149 /* PhotoDetailViewController.swift in Sources */,
 				3BC5627D1E418C7200B076A7 /* PhotosViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
