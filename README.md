@@ -8,11 +8,26 @@ The following functionality is complete:
 
 - [x] User can access the Tumblr posts for the blog Humans of New York.
 
+- [x] User can access Details Photo Screen.
+
+- [x] User can Pull to Refresh.
+
+- [x] Infinite Scrolling to the main photo feed.
+
+Optional
+
+- [x] Add Avatar Head Views
+
+- [x] Add Full Screen Photo View
+
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://imgur.com/lmDjbmp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+gif link: http://imgur.com/lmDjbmp.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
